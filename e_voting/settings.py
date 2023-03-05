@@ -127,7 +127,7 @@ STATIC_URL = '/static/'
 MEDIA_URL = '/media/'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
-STATIC_ROOT = '/home/ubuntu/project/online_voting_system/static'
+STATIC_ROOT = '/home/ubuntu/project/online_voting_system/static/'
 # STATICFILES_DIRS = [
 #     os.path.join(BASE_DIR, 'static')
 # ]
